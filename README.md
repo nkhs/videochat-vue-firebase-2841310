@@ -1,4 +1,7 @@
 # Building a Video Chat with Vue.js and Firebase
+
+https://video-cbec7.web.app/
+
 This is the repository for the LinkedIn Learning course Building a Video Chat with Vue.js and Firebase. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Building a Video Chat with Vue.js and Firebase][lil-thumbnail-url] 
